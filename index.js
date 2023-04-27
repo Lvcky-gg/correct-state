@@ -1,4 +1,4 @@
-export const filterState = (state) => {
+const filterState = (state) => {
     const Alabama = [ 'Alabama',"AL","Alabamma", "Alabma", "Alambama", "Alabam", "Alabamia", "Albama", "Alabame", "Alabamma", "Alabmaa", "Alabana"]
     const Alaska = ['Alaska',"AK","Alasca", "Alasksa", "Alaksa", "Alaskah", "Alasaka", "Alascka", "Alasak", "Alaskaa", "Aalaska", "Alask"]
     const Arizona = ['Arizona',"AZ","Arizonia", "Arazona", "Ariozna", "Arizna", "Arazonia", "Arziona", "Arisona", "Ariona", "Arizonaa", "Arizna"]
@@ -156,3 +156,4 @@ export const filterState = (state) => {
     }
     return state
 }
+module.exports = filterState

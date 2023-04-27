@@ -1,0 +1,20 @@
+{
+  "name": "lvcky-correct-state-spelling",
+  "version": "1.0.2",
+  "description": "corrects state spellings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lvcky-gg/correct-state.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lvcky-gg/correct-state/issues"
+  },
+  "homepage": "https://github.com/Lvcky-gg/correct-state#readme"
+}
